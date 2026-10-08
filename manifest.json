@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Color Picker",
+    "version": "1.0",
+    "description": "Pick a color anywhere on screen to get its hex code.",
+    "action": {
+        "default_popup": "window.html",
+        "default_title": "Pick A Color"
+    }
+}
